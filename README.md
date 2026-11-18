@@ -4,3 +4,4 @@
 ## Contenidos
 
 1. [Introducción al Pentesting](./01-introduccion-al-pentesting.md)
+2. [Pentesting en laboratorio: guía de método y fichas de campo](./guia-pentesting/00-indice.md)
