@@ -1,9 +1,7 @@
 # Luz — Resumen de la resolución
 
-- Plataforma: HackMyVM.
 - Sistema operativo: Linux.
 - Dificultad indicada: fácil.
-- Fuente: https://www.wh01s17.com/blog/038-luz
 
 ## 1. Reconocimiento
 
